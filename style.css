@@ -1,0 +1,38 @@
+body{
+background-color: FFF7F3;
+text-align: center;
+}
+h1{
+    color:#8D5A63;
+    text-align:center;
+    font-size:40px;
+}
+h2{
+    color:rosybrown;
+    text-align:center;
+    font-size:26px;
+}
+img{
+    width:180px;
+    height: 180px;
+    border-radius: 20px;
+    object-fit: cover;
+    display:block;
+    margin:auto;
+    border:4px solid #D9A5A5;
+}
+h3{
+    color:#5B4145;
+    font-size:22px;
+    text-align:center
+}
+ul {
+    list-style-position: inside;
+    padding: 0;
+    text-align: center;
+}
+
+li {
+    margin: 8px;
+}
+
